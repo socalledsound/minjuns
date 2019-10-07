@@ -1,0 +1,2 @@
+# minjuns
+minjuns midterm
