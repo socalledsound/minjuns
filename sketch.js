@@ -5,7 +5,7 @@ function preload(){
 } 
 
 function setup(){
-  createCanvas(400,400);
+  createCanvas(windowWidth, windowHeight);
   //angleMode(DEGREES);
   system = new ParticleSystem(createVector(10,10 ));
   fft = new p5.FFT();
